@@ -1,4 +1,4 @@
 #支持私库
-javacoder2023/pikpak
+haroldli/xiaoya-tvbox
 
 #支持指定架构
