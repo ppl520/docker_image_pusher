@@ -1,4 +1,4 @@
 #支持私库
-haroldli/xiaoya-tvbox
+wyh3210277395/sehuatang-crawler:latest
 
 #支持指定架构
