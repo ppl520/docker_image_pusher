@@ -1,4 +1,4 @@
 #支持私库
-mdcng/mdc
+kylemanna/openvpn
 
 #支持指定架构
