@@ -1,4 +1,4 @@
 #支持私库
-smanx/clash-verge
+smanx/flclash
 
 #支持指定架构
